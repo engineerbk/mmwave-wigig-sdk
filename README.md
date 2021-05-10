@@ -8,3 +8,4 @@ Installation:
 
 To use SDK:
 - Linked library file and mcsl_api.h to your source.
+- See sample code main.cpp and build.sh to make sure your config is right.
