@@ -1,0 +1,1 @@
+gcc -I /usr/local/include -lusb-1.0 -o xout main.cpp 
